@@ -13,7 +13,7 @@
     <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div></br>
 
-!["MarcosHBritto" GitHub stats](https://github-readme-stats.vercel.app/api?username="MarcosHBritto"&show_icons=true&theme=highcontrast)
+![Marcos H. Britto GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosHBritto&show_icons=true&theme=highcontrast)
          
 Here are some ideas to get you started:
 
