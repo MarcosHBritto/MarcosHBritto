@@ -30,4 +30,6 @@ Here are some ideas to get you started:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/MarcosHaubrich#5345)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com//)
 
+</br>
+
 ![snake gif](https://github.com/MarcosHBritto/MarcosHBritto/blob/output/github-contribution-grid-snake.svg)
