@@ -1,7 +1,6 @@
-### Olá, meu nome é Marcos e sou um futuro desenvolvedor fullstack!
+### Hello world! My name is Marcos. I'm a future fullstack developer!
 
-# Seja bem-vindo(a)!
-
+# Welcome!
 
 **MarcosHBritto/MarcosHBritto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div style="display: inline_block"><br/>
