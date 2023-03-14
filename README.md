@@ -8,6 +8,8 @@
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img align="center" alt="html5" src=
 
+         !["Nome" GitHub stats](https://github-readme-stats.vercel.app/api?username="nome"&show_icons=true&theme=highcontrast)
+         
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
