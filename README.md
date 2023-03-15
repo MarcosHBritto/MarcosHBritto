@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 ![snake gif](https://github.com/MarcosHBritto/MarcosHBritto/blob/output/github-contribution-grid-snake.svg)
 
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosHBritto88&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
+<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosHBrittolav88&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
