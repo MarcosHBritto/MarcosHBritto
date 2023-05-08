@@ -1,6 +1,6 @@
 ### Olá, meu nome é Marcos e estou estudando para ser um desenvolvedor!
 
-# Welcome!
+# Bem-vindo!
 
 **MarcosHBritto/MarcosHBritto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div style="display: inline_block"><br/>
